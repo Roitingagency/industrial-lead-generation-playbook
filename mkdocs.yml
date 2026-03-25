@@ -1,6 +1,5 @@
 site_name: Sistema de captación B2B para fabricantes e industria técnica
 site_description: Playbook técnico de captación de leads industriales para empresas B2B
-site_url: https://industrial-lead-generation-playbook.readthedocs.io/
 
 theme:
   name: material
