@@ -1,0 +1,14 @@
+site_name: Sistema de captación B2B para fabricantes e industria técnica
+site_description: Playbook técnico de captación de leads industriales para empresas B2B
+site_url: https://industrial-lead-generation-playbook.readthedocs.io/
+
+theme:
+  name: material
+  language: es
+
+nav:
+  - Inicio: index.md
+  - Problema comercial en industria: problema-comercial-industria.md
+  - Framework de captación: framework-captacion-industrial.md
+  - Canales y activos: canales-y-activos.md
+  - KPIs y escalado: kpis-y-escalado.md
